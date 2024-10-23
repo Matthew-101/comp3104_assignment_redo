@@ -1,0 +1,3 @@
+COMP 3104 - DevOps: The course introduces students to the guiding principle and practices of DevOps. DevOps is a dynamic concept that merges software development, represented as Dev, with IT operations, represented as Ops. This concept intends to reduce the development life cycle by providing features, fixes, and updates in rapid frequency and in close alignment with business objectives.\
+\
+The course covers key concepts on automation, continuous integration/continuous delivery, containerization with Docker, and orchestration with Kubernetes. Hands-on experience involves the use of tools such as Jenkins and Git on cloud platforms.}
