@@ -1,0 +1,2 @@
+DevOps learning is essential in every stage of SDLC. DevOps aligns development and operations teams towards collaboration and smoothening the entire lifecycle of SDLC, from planning through deployment and maintenance.
+It includes integration of DevOps practices, which would improve code quality, reduce deployment times, automate testing, and hence faster releases. The automation and continuous delivery further help focus on zero or lessening human errors, ensuring that the applications are more reliable in a production environment.}
